@@ -36,3 +36,9 @@ select{
     
 
 }
+button{
+    color: aliceblue;
+    background-color: red;
+    border: none;
+    padding: 5px;
+}
